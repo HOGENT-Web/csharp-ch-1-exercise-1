@@ -1,12 +1,3 @@
-﻿using System;
-
-namespace App
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-    }
-}
+﻿using Domain;
+var you = new Person();
+you.SayHello();
