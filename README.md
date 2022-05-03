@@ -1,7 +1,7 @@
 # Chapter 1 - Exercise 1
 ##  Objectives
-- Learn how to create a descent project structure
-- Learn how to create a descent GIT repository
+- Learn how to create a decent project structure
+- Learn how to create a decent GIT repository
 - Learn how to create a console application
 - Learn how to link a `Class Library`
 
