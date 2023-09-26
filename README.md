@@ -31,7 +31,7 @@
 - Use a `dotnet` command to create a new console application in the `src` folder called `App`
   ```console
   cd src
-  dotnet new console -o App
+  dotnet new console -o App -f net6.0
   ```
 - Use a `dotnet` command to create a `.gitignore` file in the root folder `ch-1-exericse-1`
   ```console
@@ -51,7 +51,7 @@
 - Use a `dotnet` command to create a `class library` in the `src` folder called `Domain`
   ```console
   cd src
-  dotnet new classlib -o Domain
+  dotnet new classlib -o Domain -f net6.0
   ```
 - Use a `dotnet` command to reference the `Domain` class library in the console application.
   ```console
